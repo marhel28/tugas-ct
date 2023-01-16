@@ -1,0 +1,120 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+	background-image: url(/worldwide-connection-gray-background-illustration-vector/61769.jpg);
+	background-size: cover;
+}
+header{	
+	background-color: black;
+	color: white;
+}
+.website-header{
+	padding: 20px;
+	height: 80px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.website-header img{
+	float: left;
+	width: 50px;
+	height: 50px;	
+	margin: 0 30px;
+}
+.website-header h1{
+	margin: auto 0;
+}
+.social-icons{
+	text-align: right;
+	flex-grow: 1;
+}
+.social-icons i{
+	margin: 0 7px;
+	cursor: pointer;
+}
+nav{
+	background-color: black;
+	height: 50px;
+	margin-bottom: 20px;
+}
+nav ul{
+	margin: 20px 0 0 0;
+}
+.navbar-nav li{
+	list-style: none;
+	display: inline-block;
+	padding: 10px 20px;
+}
+.navbar-nav li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+.navbar-nav li a:hover{
+	color:#f08519;
+}
+.berita-news-section{
+	padding: 0 30px 0 60px;
+	display: flex;
+}
+.website-header h1 a{
+    text-decoration: none;
+    color: white;
+}
+.website-header h1 a:hover{
+    color: #f08519;
+}
+
+
+
+
+
+
+
+
+/*  */
+marquee{
+	color: #f08519;
+}
+.news-update{
+	margin: 35px auto;
+	width: 1500px;
+	background-color: black;
+	padding: 50px;
+	position: relative;
+}
+.update{
+	position: absolute;
+	display: block;
+	color: white;
+	top: 10px;
+}
+.grid-container {
+	width: 1400px;
+	margin: 20px auto;
+	background-color: black;
+	display: grid;
+	grid-template-columns: repeat(3, 3fr);
+	grid-gap: 0px;
+  }
+  .grid-item{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
+  .grid-item img{
+	width: 100%;
+	height: auto;
+  }
+  
+  .card-akhir{
+	width: 1500px;
+	margin: 100px auto;
+  }
+
+  footer{
+	background-color: black;
+  }
+  

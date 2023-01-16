@@ -1,0 +1,30 @@
+.content-isi{
+	width: 1200px;
+	height: auto;
+	margin: 20px auto;
+	border: 1px solid black;
+	padding: 20px;
+  }
+  .content-isi h1{
+	font-size: 78px;
+  }
+  .content-computer{
+	text-align: center;
+  }
+  .image-content{
+	height: 600px;
+	background-image: url(/images/longsor\ besar.jpg);
+	background-size: cover;
+
+  }
+  .content-main{
+	width: 1180px;
+	margin: 20px auto;
+	background-color: rgba(127, 133, 133, 0.152);
+	margin-bottom: 300px;
+  }
+  .image-terasering{
+	background-image: url(/images/longsor\ teras.jpg);
+	background-size: cover;
+	height: 500px;
+  }
